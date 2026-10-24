@@ -1,0 +1,101 @@
+Order_ID,Customer_ID,Customer_Name,Gender,Age,City,State,Category,Sub_Category,Product,Quantity,Unit_Price,Discount,Cost,Rating,Payment_Mode,Order_Status,Order_Date,Revenue,Net_Sales,Profit,Profit_Margin,Year,Month,Month_Name,Quarter
+50001,1003,Arun,Male,33,Delhi,Telangana,Home,Shoes,Face Wash,1,517.0,20,16894.0,3.7,Cash on Delivery,Delivered,2025-01-01,517.0,413.6,-16480.4,-3984.622823984526,2025,1,January,1
+50002,1024,Divya,Female,52,Mumbai,Andhra Pradesh,Beauty,Kitchen,Laptop,2,2404.0,15,16532.0,4.4,UPI,Delivered,2025-01-04,4808.0,4086.7999999999997,-28977.2,-709.0437506117256,2025,1,January,1
+50003,1020,Sneha,Male,18,Bengaluru,Delhi,Home,Laptops,Face Wash,3,11191.0,10,32178.0,4.8,Credit Card,Delivered,2025-01-07,33573.0,30215.7,-66318.3,-219.48291782086798,2025,1,January,1
+50004,1014,Amit,Female,55,Delhi,Delhi,Electronics,Laptops,Smartphone,4,44242.0,20,5443.0,4.3,Credit Card,Delivered,2025-01-10,176968.0,141574.4,119802.4,84.62151349396501,2025,1,January,1
+50005,1013,Pooja,Male,40,Chennai,Karnataka,Beauty,Mobiles,Chair,3,23108.0,0,10860.0,4.9,UPI,Delivered,2025-01-13,69324.0,69324.0,36744.0,53.00328890427558,2025,1,January,1
+50006,1026,Neha,Male,23,Vijayawada,Tamil Nadu,Home,Shoes,Chair,4,35566.0,20,6496.0,4.5,UPI,Delivered,2025-01-16,142264.0,113811.20000000001,87827.20000000001,77.16920654557724,2025,1,January,1
+50007,1003,Arun,Female,30,Chennai,Andhra Pradesh,Clothing,Mobiles,Chair,3,20754.0,20,8694.0,4.7,Credit Card,Delivered,2025-01-19,62262.0,49809.600000000006,23727.600000000006,47.63660017346054,2025,1,January,1
+50008,1021,Vijay,Female,41,Hyderabad,Karnataka,Home,Kitchen,Mixer,1,8904.0,10,31767.0,2.8,Cash on Delivery,Cancelled,2025-01-22,8904.0,8013.6,-23753.4,-296.413596885295,2025,1,January,1
+50009,1007,Anjali,Male,31,Delhi,Karnataka,Beauty,Shoes,Jeans,2,18746.0,15,32937.0,4.3,UPI,Delivered,2025-01-25,37492.0,31868.2,-34005.8,-106.70762703886633,2025,1,January,1
+50010,1003,Arun,Female,22,Hyderabad,Karnataka,Beauty,Shoes,Chair,4,4858.0,10,1753.0,3.6,Credit Card,Delivered,2025-01-28,19432.0,17488.8,10476.8,59.90576826311697,2025,1,January,1
+50011,1016,Rahul,Male,45,Bengaluru,Delhi,Beauty,Kitchen,Headphones,1,38581.0,5,22196.0,3.9,UPI,Delivered,2025-01-31,38581.0,36651.95,14455.949999999997,39.44114842457222,2025,1,January,1
+50012,1030,Kavya,Female,46,Bengaluru,Maharashtra,Clothing,Shoes,Chair,4,9421.0,15,8303.0,4.1,Debit Card,Delivered,2025-02-03,37684.0,32031.399999999998,-1180.6000000000022,-3.685758349619443,2025,2,February,1
+50013,1023,Ravi,Female,22,Bengaluru,Delhi,Beauty,Furniture,Running Shoes,3,19005.0,5,6901.0,4.9,Credit Card,Delivered,2025-02-06,57015.0,54164.25,33461.25,61.7773716058101,2025,2,February,1
+50014,1023,Ravi,Male,29,Hyderabad,Maharashtra,Clothing,Furniture,Jeans,2,49007.0,5,10363.0,5.0,Cash on Delivery,Delivered,2025-02-09,98014.0,93113.3,72387.3,77.74109606253886,2025,2,February,1
+50015,1022,Anjali,Female,28,Hyderabad,Delhi,Home,Skincare,Running Shoes,4,29720.0,10,6964.0,3.2,Debit Card,Cancelled,2025-02-12,118880.0,106992.0,79136.0,73.96440855391057,2025,2,February,1
+50016,1024,Divya,Male,45,Mumbai,Telangana,Home,Furniture,Running Shoes,4,23090.0,20,17258.0,4.3,Cash on Delivery,Delivered,2025-02-15,92360.0,73888.0,4856.0,6.572109138155045,2025,2,February,1
+50017,1016,Rahul,Male,48,Delhi,Delhi,Electronics,Shoes,Smartphone,1,27287.0,5,34847.0,4.4,Debit Card,Delivered,2025-02-18,27287.0,25922.649999999998,-8924.350000000002,-34.426842934653685,2025,2,February,1
+50018,1004,Kiran,Male,48,Hyderabad,Telangana,Clothing,Shoes,Laptop,1,39268.0,10,20608.0,3.4,Credit Card,Delivered,2025-02-21,39268.0,35341.200000000004,14733.200000000004,41.68845426867227,2025,2,February,1
+50019,1026,Neha,Male,57,Bengaluru,Tamil Nadu,Electronics,Laptops,Headphones,3,12947.0,0,25368.0,2.8,Cash on Delivery,Delivered,2025-02-24,38841.0,38841.0,-37263.0,-95.93728276820886,2025,2,February,1
+50020,1014,Amit,Female,50,Vijayawada,Andhra Pradesh,Electronics,Kitchen,Laptop,4,31929.0,0,17366.0,2.6,Credit Card,Delivered,2025-02-27,127716.0,127716.0,58252.0,45.61057345986407,2025,2,February,1
+50021,1016,Rahul,Male,31,Delhi,Tamil Nadu,Clothing,Mobiles,Jeans,1,43672.0,0,683.0,4.4,Cash on Delivery,Delivered,2025-03-02,43672.0,43672.0,42989.0,98.43606887708371,2025,3,March,1
+50022,1012,Manoj,Male,22,Mumbai,Telangana,Clothing,Skincare,Mixer,3,28748.0,0,3127.0,3.7,Cash on Delivery,Delivered,2025-03-05,86244.0,86244.0,76863.0,89.12272158063169,2025,3,March,1
+50023,1006,Vijay,Female,43,Mumbai,Karnataka,Electronics,Furniture,Mixer,1,22493.0,20,9556.0,5.0,Debit Card,Delivered,2025-03-08,22493.0,17994.4,8438.400000000001,46.89458942782199,2025,3,March,1
+50024,1028,Pooja,Male,56,Vijayawada,Maharashtra,Clothing,Mobiles,Jeans,3,7512.0,20,8679.0,3.7,Debit Card,Shipped,2025-03-11,22536.0,18028.8,-8008.200000000001,-44.41892971246007,2025,3,March,1
+50025,1024,Divya,Female,58,Chennai,Karnataka,Home,Furniture,Face Wash,3,12639.0,20,29452.0,4.9,Credit Card,Delivered,2025-03-14,37917.0,30333.600000000002,-58022.399999999994,-191.28095577181736,2025,3,March,1
+50026,1020,Sneha,Male,27,Bengaluru,Karnataka,Electronics,Mobiles,Running Shoes,1,47317.0,0,29556.0,3.5,Cash on Delivery,Shipped,2025-03-17,47317.0,47317.0,17761.0,37.53619206627639,2025,3,March,1
+50027,1013,Pooja,Female,27,Delhi,Delhi,Clothing,Furniture,Smartphone,3,27200.0,0,29923.0,4.5,Debit Card,Delivered,2025-03-20,81600.0,81600.0,-8169.0,-10.011029411764707,2025,3,March,1
+50028,1025,Suresh,Female,19,Mumbai,Telangana,Clothing,Mobiles,Chair,4,15276.0,5,22388.0,2.7,Cash on Delivery,Delivered,2025-03-23,61104.0,58048.799999999996,-31503.200000000004,-54.27020024531085,2025,3,March,1
+50029,1017,Priya,Female,23,Hyderabad,Delhi,Home,Shoes,Running Shoes,4,21092.0,10,19554.0,3.9,Credit Card,Shipped,2025-03-26,84368.0,75931.2,-2284.800000000003,-3.009039762311149,2025,3,March,1
+50030,1014,Amit,Male,41,Mumbai,Delhi,Clothing,Kitchen,Mixer,1,29027.0,5,22790.0,4.5,Cash on Delivery,Shipped,2025-03-29,29027.0,27575.649999999998,4785.649999999998,17.354622647154276,2025,3,March,1
+50031,1014,Amit,Male,40,Hyderabad,Andhra Pradesh,Home,Furniture,Running Shoes,1,27016.0,10,14356.0,4.8,Credit Card,Delivered,2025-04-01,27016.0,24314.4,9958.400000000001,40.95679926298819,2025,4,April,2
+50032,1007,Anjali,Female,33,Mumbai,Telangana,Clothing,Shirts,Running Shoes,1,35078.0,0,23523.0,4.6,UPI,Cancelled,2025-04-04,35078.0,35078.0,11555.0,32.940874622270364,2025,4,April,2
+50033,1003,Arun,Male,31,Mumbai,Telangana,Clothing,Skincare,Smartphone,2,13097.0,15,27846.0,2.6,UPI,Delivered,2025-04-07,26194.0,22264.899999999998,-33427.100000000006,-150.13361838588995,2025,4,April,2
+50034,1017,Priya,Female,52,Hyderabad,Karnataka,Clothing,Furniture,Running Shoes,1,32566.0,5,26749.0,3.4,Debit Card,Delivered,2025-04-10,32566.0,30937.699999999997,4188.699999999997,13.539144797447767,2025,4,April,2
+50035,1027,Manoj,Male,37,Chennai,Andhra Pradesh,Electronics,Laptops,Chair,4,22301.0,0,21561.0,2.6,Credit Card,Cancelled,2025-04-13,89204.0,89204.0,2960.0,3.3182368503654547,2025,4,April,2
+50036,1002,Priya,Female,51,Hyderabad,Telangana,Home,Kitchen,T-Shirt,4,47047.0,15,2222.0,2.8,UPI,Delivered,2025-04-16,188188.0,159959.8,151071.8,94.44360395549381,2025,4,April,2
+50037,1026,Neha,Female,58,Vijayawada,Tamil Nadu,Electronics,Furniture,Mixer,4,8148.0,20,25428.0,4.2,Credit Card,Shipped,2025-04-19,32592.0,26073.600000000002,-75638.4,-290.09572901325475,2025,4,April,2
+50038,1025,Suresh,Male,31,Delhi,Telangana,Clothing,Shirts,Smartphone,1,7677.0,0,12957.0,4.3,Debit Card,Delivered,2025-04-22,7677.0,7677.0,-5280.0,-68.7768659632669,2025,4,April,2
+50039,1009,Divya,Male,26,Hyderabad,Andhra Pradesh,Beauty,Furniture,T-Shirt,1,23244.0,10,26079.0,4.4,Credit Card,Shipped,2025-04-25,23244.0,20919.600000000002,-5159.399999999998,-24.66299546836458,2025,4,April,2
+50040,1019,Kiran,Female,58,Chennai,Telangana,Beauty,Skincare,Jeans,4,25565.0,20,18975.0,4.7,Cash on Delivery,Delivered,2025-04-28,102260.0,81808.0,5908.0,7.221787600234696,2025,4,April,2
+50041,1005,Sneha,Male,44,Delhi,Maharashtra,Home,Furniture,Smart Watch,2,34636.0,15,30865.0,4.3,Cash on Delivery,Delivered,2025-05-01,69272.0,58881.2,-2848.800000000003,-4.838216612433175,2025,5,May,2
+50042,1023,Ravi,Female,30,Bengaluru,Telangana,Beauty,Furniture,Headphones,3,20380.0,20,11978.0,4.5,Debit Card,Delivered,2025-05-04,61140.0,48912.0,12978.0,26.533366045142298,2025,5,May,2
+50043,1022,Anjali,Male,44,Hyderabad,Karnataka,Beauty,Kitchen,Headphones,4,45711.0,10,32612.0,2.6,Cash on Delivery,Delivered,2025-05-07,182844.0,164559.6,34111.600000000006,20.729024620866852,2025,5,May,2
+50044,1011,Neha,Female,39,Chennai,Karnataka,Clothing,Laptops,Jeans,1,23866.0,5,29587.0,3.1,Credit Card,Delivered,2025-05-10,23866.0,22672.7,-6914.299999999999,-30.496147349014453,2025,5,May,2
+50045,1003,Arun,Female,56,Vijayawada,Maharashtra,Beauty,Furniture,Smart Watch,1,6728.0,15,11722.0,4.1,UPI,Delivered,2025-05-13,6728.0,5718.8,-6003.2,-104.97307127369378,2025,5,May,2
+50046,1030,Kavya,Male,28,Vijayawada,Telangana,Clothing,Shirts,Face Wash,1,6225.0,0,16993.0,4.6,UPI,Delivered,2025-05-16,6225.0,6225.0,-10768.0,-172.97991967871488,2025,5,May,2
+50047,1014,Amit,Female,59,Bengaluru,Tamil Nadu,Clothing,Shoes,Smartphone,1,48678.0,5,18690.0,2.5,Cash on Delivery,Delivered,2025-05-19,48678.0,46244.1,27554.1,59.58403342264202,2025,5,May,2
+50048,1027,Manoj,Male,57,Delhi,Andhra Pradesh,Home,Shirts,Headphones,1,6964.0,15,26948.0,3.8,Cash on Delivery,Delivered,2025-05-22,6964.0,5919.4,-21028.6,-355.2488427881204,2025,5,May,2
+50049,1021,Vijay,Female,25,Vijayawada,Andhra Pradesh,Beauty,Shirts,Face Wash,4,47408.0,15,24182.0,4.2,Debit Card,Delivered,2025-05-25,189632.0,161187.19999999998,64459.19999999998,39.990272180421265,2025,5,May,2
+50050,1024,Divya,Male,24,Bengaluru,Maharashtra,Beauty,Laptops,Smartphone,3,14120.0,0,29850.0,2.6,UPI,Delivered,2025-05-28,42360.0,42360.0,-47190.0,-111.40226628895185,2025,5,May,2
+50051,1023,Ravi,Male,40,Delhi,Maharashtra,Clothing,Skincare,Face Wash,4,4942.0,10,13071.0,3.5,Credit Card,Delivered,2025-05-31,19768.0,17791.2,-34492.8,-193.87562390395252,2025,5,May,2
+50052,1006,Vijay,Male,19,Delhi,Tamil Nadu,Home,Laptops,Headphones,4,15443.0,5,17766.0,4.7,UPI,Delivered,2025-06-03,61772.0,58683.399999999994,-12380.600000000006,-21.097277935497953,2025,6,June,2
+50053,1011,Neha,Male,30,Chennai,Maharashtra,Electronics,Mobiles,Smart Watch,4,30850.0,10,15194.0,4.2,UPI,Shipped,2025-06-06,123400.0,111060.0,50284.0,45.27642715649199,2025,6,June,2
+50054,1015,Kavya,Male,36,Hyderabad,Karnataka,Beauty,Skincare,Headphones,1,21566.0,20,31852.0,3.1,UPI,Delivered,2025-06-09,21566.0,17252.8,-14599.2,-84.61930817026803,2025,6,June,2
+50055,1015,Kavya,Female,58,Vijayawada,Delhi,Home,Shoes,Jeans,2,39343.0,0,10813.0,4.6,Debit Card,Delivered,2025-06-12,78686.0,78686.0,57060.0,72.51607655745622,2025,6,June,2
+50056,1002,Priya,Male,59,Vijayawada,Andhra Pradesh,Home,Shoes,Mixer,4,30666.0,20,20631.0,3.4,UPI,Delivered,2025-06-15,122664.0,98131.20000000001,15607.200000000012,15.904421835257299,2025,6,June,2
+50057,1017,Priya,Female,24,Hyderabad,Maharashtra,Beauty,Furniture,Laptop,1,20218.0,10,4381.0,4.6,Cash on Delivery,Delivered,2025-06-18,20218.0,18196.2,13815.2,75.92354447631924,2025,6,June,2
+50058,1005,Sneha,Male,55,Vijayawada,Delhi,Home,Shirts,Running Shoes,1,31841.0,15,29789.0,3.2,Credit Card,Delivered,2025-06-21,31841.0,27064.85,-2724.1500000000015,-10.065269159075338,2025,6,June,2
+50059,1023,Ravi,Male,21,Delhi,Maharashtra,Electronics,Mobiles,Running Shoes,3,48581.0,10,13570.0,4.0,Credit Card,Delivered,2025-06-24,145743.0,131168.7,90458.70000000001,68.96363232996897,2025,6,June,2
+50060,1021,Vijay,Female,49,Hyderabad,Delhi,Clothing,Furniture,Chair,4,20767.0,5,12052.0,3.5,Debit Card,Cancelled,2025-06-27,83068.0,78914.59999999999,30706.59999999999,38.91117739936589,2025,6,June,2
+50061,1028,Pooja,Female,53,Mumbai,Andhra Pradesh,Electronics,Laptops,Smart Watch,4,7926.0,15,20485.0,3.2,Cash on Delivery,Delivered,2025-06-30,31704.0,26948.399999999998,-54991.600000000006,-204.06257885440326,2025,6,June,2
+50062,1023,Ravi,Male,55,Hyderabad,Telangana,Home,Shoes,Mixer,4,20616.0,15,17558.0,4.7,Credit Card,Delivered,2025-07-03,82464.0,70094.4,-137.60000000000582,-0.19630669497136122,2025,7,July,3
+50063,1011,Neha,Male,27,Mumbai,Tamil Nadu,Electronics,Skincare,Jeans,1,42053.0,0,29709.0,3.0,UPI,Cancelled,2025-07-06,42053.0,42053.0,12344.0,29.353434951133096,2025,7,July,3
+50064,1030,Kavya,Female,55,Chennai,Karnataka,Electronics,Skincare,Jeans,4,11116.0,15,18693.0,2.7,UPI,Delivered,2025-07-09,44464.0,37794.4,-36977.6,-97.838833266304,2025,7,July,3
+50065,1013,Pooja,Female,22,Hyderabad,Delhi,Home,Shirts,Jeans,4,47472.0,15,18191.0,3.4,Cash on Delivery,Delivered,2025-07-12,189888.0,161404.8,88640.79999999999,54.91831717520172,2025,7,July,3
+50066,1010,Suresh,Female,39,Delhi,Karnataka,Home,Furniture,Face Wash,3,29538.0,5,3853.0,4.3,UPI,Shipped,2025-07-15,88614.0,84183.3,72624.3,86.269248176301,2025,7,July,3
+50067,1028,Pooja,Male,37,Hyderabad,Karnataka,Home,Kitchen,T-Shirt,4,30198.0,20,963.0,4.5,Debit Card,Shipped,2025-07-18,120792.0,96633.6,92781.6,96.01380886151401,2025,7,July,3
+50068,1012,Manoj,Male,31,Vijayawada,Karnataka,Beauty,Shoes,Laptop,4,16056.0,15,14069.0,5.0,Credit Card,Delivered,2025-07-21,64224.0,54590.4,-1685.5999999999985,-3.0877223834227236,2025,7,July,3
+50069,1003,Arun,Female,18,Bengaluru,Andhra Pradesh,Beauty,Mobiles,T-Shirt,2,46046.0,5,34937.0,3.2,Cash on Delivery,Delivered,2025-07-24,92092.0,87487.4,17613.399999999994,20.132499079867497,2025,7,July,3
+50070,1015,Kavya,Female,50,Delhi,Andhra Pradesh,Electronics,Shirts,Smartphone,1,2092.0,0,32123.0,3.5,UPI,Delivered,2025-07-27,2092.0,2092.0,-30031.0,-1435.5162523900574,2025,7,July,3
+50071,1024,Divya,Male,32,Mumbai,Delhi,Beauty,Kitchen,Laptop,2,15143.0,15,22088.0,2.8,Cash on Delivery,Delivered,2025-07-30,30286.0,25743.1,-18432.9,-71.60326456409679,2025,7,July,3
+50072,1006,Vijay,Male,45,Mumbai,Tamil Nadu,Home,Skincare,Smartphone,1,21094.0,5,22152.0,3.9,Debit Card,Delivered,2025-08-02,21094.0,20039.3,-2112.7000000000007,-10.542783430558956,2025,8,August,3
+50073,1014,Amit,Male,35,Chennai,Karnataka,Home,Mobiles,Chair,1,24020.0,15,13824.0,5.0,Credit Card,Delivered,2025-08-05,24020.0,20417.0,6593.0,32.29171768624185,2025,8,August,3
+50074,1004,Kiran,Female,33,Chennai,Telangana,Electronics,Furniture,Chair,1,23864.0,10,6377.0,4.3,UPI,Delivered,2025-08-08,23864.0,21477.600000000002,15100.600000000002,70.30860058852014,2025,8,August,3
+50075,1021,Vijay,Male,55,Vijayawada,Telangana,Home,Furniture,Mixer,3,7651.0,10,497.0,4.0,Cash on Delivery,Shipped,2025-08-11,22953.0,20657.7,19166.7,92.78235234319406,2025,8,August,3
+50076,1015,Kavya,Male,21,Mumbai,Tamil Nadu,Home,Skincare,Jeans,3,11511.0,0,11992.0,3.5,Credit Card,Delivered,2025-08-14,34533.0,34533.0,-1443.0,-4.178611762661802,2025,8,August,3
+50077,1010,Suresh,Male,48,Delhi,Delhi,Home,Shirts,Chair,3,5033.0,15,11213.0,4.8,Credit Card,Delivered,2025-08-17,15099.0,12834.15,-20804.85,-162.1053984876287,2025,8,August,3
+50078,1007,Anjali,Female,49,Hyderabad,Andhra Pradesh,Electronics,Mobiles,Laptop,3,28751.0,0,6867.0,3.7,Credit Card,Delivered,2025-08-20,86253.0,86253.0,65652.0,76.11561336996974,2025,8,August,3
+50079,1017,Priya,Male,33,Vijayawada,Delhi,Home,Laptops,Smart Watch,3,17738.0,10,9219.0,2.8,UPI,Shipped,2025-08-23,53214.0,47892.6,20235.6,42.25203893712181,2025,8,August,3
+50080,1021,Vijay,Male,29,Hyderabad,Telangana,Beauty,Furniture,Running Shoes,3,28418.0,20,1063.0,3.4,Credit Card,Delivered,2025-08-26,85254.0,68203.2,65014.2,95.32426631008516,2025,8,August,3
+50081,1029,Amit,Male,18,Bengaluru,Telangana,Home,Skincare,Smart Watch,1,29608.0,20,21357.0,2.7,UPI,Delivered,2025-08-29,29608.0,23686.4,2329.4000000000015,9.834335314779795,2025,8,August,3
+50082,1014,Amit,Male,57,Mumbai,Delhi,Electronics,Kitchen,Laptop,4,35189.0,20,32475.0,3.0,UPI,Delivered,2025-09-01,140756.0,112604.8,-17295.199999999997,-15.35920316007843,2025,9,September,3
+50083,1005,Sneha,Female,57,Bengaluru,Telangana,Beauty,Mobiles,Jeans,2,27487.0,20,24239.0,2.5,Credit Card,Delivered,2025-09-04,54974.0,43979.200000000004,-4498.799999999996,-10.229381162003845,2025,9,September,3
+50084,1025,Suresh,Male,28,Mumbai,Telangana,Beauty,Mobiles,Mixer,1,32503.0,10,15797.0,3.6,UPI,Delivered,2025-09-07,32503.0,29252.7,13455.7,45.998147179576584,2025,9,September,3
+50085,1019,Kiran,Male,19,Chennai,Tamil Nadu,Electronics,Shoes,Jeans,4,29481.0,5,14825.0,4.1,Credit Card,Delivered,2025-09-10,117924.0,112027.79999999999,52727.79999999999,47.06671022728287,2025,9,September,3
+50086,1022,Anjali,Female,23,Bengaluru,Delhi,Beauty,Kitchen,Jeans,3,32725.0,20,10902.0,3.4,Cash on Delivery,Delivered,2025-09-13,98175.0,78540.0,45834.0,58.357524828113064,2025,9,September,3
+50087,1003,Arun,Male,20,Chennai,Maharashtra,Clothing,Mobiles,Laptop,1,30947.0,20,5155.0,3.6,UPI,Shipped,2025-09-16,30947.0,24757.600000000002,19602.600000000002,79.17811096390604,2025,9,September,3
+50088,1010,Suresh,Female,52,Vijayawada,Telangana,Home,Kitchen,T-Shirt,1,16015.0,20,21027.0,4.9,UPI,Cancelled,2025-09-19,16015.0,12812.0,-8215.0,-64.11957539806431,2025,9,September,3
+50089,1024,Divya,Female,55,Mumbai,Delhi,Clothing,Shoes,Headphones,1,12540.0,15,19915.0,4.4,UPI,Delivered,2025-09-22,12540.0,10659.0,-9256.0,-86.83741439159395,2025,9,September,3
+50090,1025,Suresh,Male,24,Vijayawada,Delhi,Beauty,Mobiles,T-Shirt,2,39435.0,0,454.0,3.9,Debit Card,Delivered,2025-09-25,78870.0,78870.0,77962.0,98.84873843032838,2025,9,September,3
+50091,1014,Amit,Female,49,Delhi,Maharashtra,Beauty,Mobiles,Mixer,1,17332.0,10,14660.0,3.2,Credit Card,Delivered,2025-09-28,17332.0,15598.800000000001,938.8000000000011,6.018411672692777,2025,9,September,3
+50092,1025,Suresh,Male,25,Delhi,Delhi,Beauty,Shoes,Mixer,3,27592.0,10,9875.0,4.7,Credit Card,Shipped,2025-10-01,82776.0,74498.40000000001,44873.40000000001,60.234045294932514,2025,10,October,4
+50093,1026,Neha,Female,33,Mumbai,Karnataka,Beauty,Furniture,Mixer,3,10089.0,20,6125.0,3.1,UPI,Delivered,2025-10-04,30267.0,24213.600000000002,5838.600000000002,24.112895232431367,2025,10,October,4
+50094,1012,Manoj,Male,43,Vijayawada,Delhi,Beauty,Furniture,T-Shirt,4,21741.0,5,24665.0,3.3,Credit Card,Delivered,2025-10-07,86964.0,82615.8,-16044.199999999997,-19.420256173758528,2025,10,October,4
+50095,1027,Manoj,Female,48,Bengaluru,Karnataka,Electronics,Shoes,Smart Watch,3,26624.0,5,18498.0,4.8,Credit Card,Delivered,2025-10-10,79872.0,75878.4,20384.399999999994,26.86456224696356,2025,10,October,4
+50096,1009,Divya,Female,54,Chennai,Maharashtra,Clothing,Shirts,Smartphone,3,31412.0,0,22255.0,3.8,Credit Card,Shipped,2025-10-13,94236.0,94236.0,27471.0,29.15127976569464,2025,10,October,4
+50097,1008,Ravi,Female,19,Hyderabad,Andhra Pradesh,Home,Skincare,T-Shirt,3,26460.0,20,25029.0,4.4,Debit Card,Delivered,2025-10-16,79380.0,63504.0,-11583.0,-18.239795918367346,2025,10,October,4
+50098,1021,Vijay,Male,26,Chennai,Maharashtra,Home,Shoes,Laptop,1,18224.0,15,34366.0,4.0,Cash on Delivery,Delivered,2025-10-19,18224.0,15490.4,-18875.6,-121.85353509270259,2025,10,October,4
+50099,1020,Sneha,Male,29,Delhi,Andhra Pradesh,Electronics,Shirts,T-Shirt,1,48100.0,0,28136.0,4.1,Credit Card,Delivered,2025-10-22,48100.0,48100.0,19964.0,41.50519750519751,2025,10,October,4
+50100,1005,Sneha,Male,31,Chennai,Andhra Pradesh,Electronics,Shoes,Smart Watch,3,25783.0,10,21788.0,3.2,Cash on Delivery,Cancelled,2025-10-25,77349.0,69614.1,4250.100000000006,6.1052286821204405,2025,10,October,4
